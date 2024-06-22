@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "563018926351",
+    "project_id": "tasawe7-nightco",
+    "storage_bucket": "tasawe7-nightco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563018926351:android:f288ec76cfc3e9501a167a",
+        "android_client_info": {
+          "package_name": "com.example.Tasawe7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDDKH2S2g7fNJ_P61-E5uCQjqlGFIWFn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
